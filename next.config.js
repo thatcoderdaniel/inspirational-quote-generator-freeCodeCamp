@@ -18,7 +18,6 @@ const nextConfig = {
       // Enabled by default.
       cssProp: true,
       // Empty by default.
-      namespace: "",
       // Not supported yet.
       minify: false,
       // Not supported yet.
